@@ -1,3 +1,4 @@
+master 4
 1
 2
 amend 3
