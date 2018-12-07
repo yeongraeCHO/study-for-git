@@ -4,3 +4,4 @@ master 4
 amend 3
 GM 4
 master, GM 5
+6
